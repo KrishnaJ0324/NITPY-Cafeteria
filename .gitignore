@@ -1,0 +1,58 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Android related
+android/app/google-services.json
+android/key.properties
+
+# iOS/Xcode related
+ios/Runner/GoogleService-Info.plist
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Pods/
+ios/Podfile.lock
+
+# Web related
+web/generated_plugin_registrant.dart
+
+# Linux related
+linux/flutter/
+linux/CMakeFiles/
+
+# macOS related
+macos/Flutter/ephemeral/
+
+# Windows related
+windows/flutter/
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
