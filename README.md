@@ -1,16 +1,6 @@
-Got it — I’ll make you a **professional README** for your **NITPY-Cafeteria** GitHub repo that:
 
-* Explains the project clearly
-* Includes key features
-* Adds setup instructions
-* Embeds your YouTube demo video
-* Looks good to recruiters when linked in your resume
 
----
 
-## **README.md**
-
-```markdown
 # 🍽️ NITPY Cafeteria – Hostel Mess Management System
 
 A **Flutter-based hostel mess management application** designed for **NIT Puducherry** to streamline food distribution and feedback collection.  
@@ -19,7 +9,8 @@ It uses **biometric verification** to authenticate students and generate food to
 ---
 
 ## 📽️ Demo Video
-🎥 Watch the working demo on YouTube: [Click here to watch]([https://youtube.com/shorts/AZoh1owbUts])
+🎥 Watch the working demo on YouTube: 
+[![NITPY Cafeteria Project Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/AZoh1owbUts)
 
 ---
 
