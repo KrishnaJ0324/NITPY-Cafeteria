@@ -96,6 +96,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 Special thanks to the NIT Puducherry team for the concept and feedback during development.
 
-```
+
 
 
